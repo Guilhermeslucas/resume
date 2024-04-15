@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.12.7)  9 APR 2024 11:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.12.7)  15 APR 2024 15:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -499,9 +499,8 @@ LaTeX Info: Redefining \nameref on input line 51.
 \@outlinefile=\write3
 \openout3 = `Guilherme-eng.out'.
 
-\pagenumberwidth=\skip76
 \makecvtitlepicturebox=\box58
-\makecvtitlepicturewidth=\skip77
+\makecvtitlepicturewidth=\skip76
 
 Underfull \hbox (badness 10000) in paragraph at lines 53--53
 
@@ -552,12 +551,12 @@ Package rerunfilecheck Info: File `Guilherme-eng.out' has not changed.
 (rerunfilecheck)             Checksum: C81C97F20AA8AD37CCD5FBEC30DEC49B;493.
  ) 
 Here is how much of TeX's memory you used:
- 12919 strings out of 478288
- 210927 string characters out of 5849315
- 599068 words of memory out of 5000000
- 30911 multiletter control sequences out of 15000+600000
- 517880 words of font info for 53 fonts, out of 8000000 for 9000
+ 12915 strings out of 478288
+ 210871 string characters out of 5849315
+ 599045 words of memory out of 5000000
+ 30908 multiletter control sequences out of 15000+600000
+ 513617 words of font info for 52 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 70i,13n,83p,1010b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,83p,1010b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Guilherme-eng.dvi (1 page, 14576 bytes).
+Output written on Guilherme-eng.dvi (1 page, 14224 bytes).
