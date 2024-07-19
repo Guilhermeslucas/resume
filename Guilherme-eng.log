@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.12.7)  31 MAY 2024 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.12.7)  19 JUL 2024 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -499,49 +499,48 @@ LaTeX Info: Redefining \nameref on input line 51.
 \@outlinefile=\write3
 \openout3 = `Guilherme-eng.out'.
 
-\pagenumberwidth=\skip76
 \makecvtitlepicturebox=\box58
-\makecvtitlepicturewidth=\skip77
+\makecvtitlepicturewidth=\skip76
 
 Underfull \hbox (badness 10000) in paragraph at lines 53--53
 
  []
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
-3.
+2.
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6
-3.
+2.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-63.
+62.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-63.
+62.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 63.
+(Font)              <10> on input line 62.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 63.
+(Font)              <7> on input line 62.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 63.
+(Font)              <5> on input line 62.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-45.
+43.
 
 (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -549,15 +548,15 @@ File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 ] (./Guilherme-eng.aux)
 Package rerunfilecheck Info: File `Guilherme-eng.out' has not changed.
-(rerunfilecheck)             Checksum: C81C97F20AA8AD37CCD5FBEC30DEC49B;493.
+(rerunfilecheck)             Checksum: 82C748DA34B76B5CE7D03A1B078C0108;395.
  ) 
 Here is how much of TeX's memory you used:
- 12919 strings out of 478288
- 210927 string characters out of 5849315
- 599068 words of memory out of 5000000
- 30911 multiletter control sequences out of 15000+600000
- 517880 words of font info for 53 fonts, out of 8000000 for 9000
+ 12913 strings out of 478288
+ 210834 string characters out of 5849315
+ 595939 words of memory out of 5000000
+ 30906 multiletter control sequences out of 15000+600000
+ 510618 words of font info for 51 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 70i,13n,83p,1010b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,83p,1010b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Guilherme-eng.dvi (1 page, 14712 bytes).
+Output written on Guilherme-eng.dvi (1 page, 13820 bytes).
