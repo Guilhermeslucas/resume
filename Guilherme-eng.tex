@@ -19,33 +19,25 @@
 \hyphenation{Campinas}
 \hyphenation{UNICAMP}
 
-
 \documentclass[10pt, a4paper, roman]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
-
 
 \usepackage[portuguese]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
-
 \moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
 
 \moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 
-%\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
-
 \usepackage[scale=0.90]{geometry} % Reduce document margins
-%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
-\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+\setlength{\makecvtitlenamewidth}{10cm} % Adjust the width of the space allocated to your name
 
 \firstname{Guilherme} 
 \familyname{Lucas}
 
 % All information in this block is optional, comment out any lines you don't need
 \title{Curriculum Vitae}
-
 \mobile{+55 19 98279-1826}
-
 \email{guilherme.slucas@gmail.com}
 
 \begin{document}
@@ -57,64 +49,68 @@
 \cventry{2024 -- Present}{Senior Software Engineer, Payments}{Mindbody}{Remote}{Brasil}
 {
     \begin{itemize}
-        \item Working on payments team.
+        \item Maintained .NET Core microservices for financial tasks and integrations with Stripe and Global Payments.
+        \item Led Kubernetes capacity planning during high season for the payments team.
+        \item Maintained a React-based financial admin platform used by 1,000+ specialists.
+        \item Participated in the on-call rotation.
     \end{itemize}
 }
-
 
 \cventry{2023 -- 2024}{Software Engineer, Finance Systems}{Telnyx}{Remote}{Brasil}
 {
     \begin{itemize}
-        \item Created RabbitMQ producers and consumers inside Python 3 microservices on a AWS Kubernetes environment.
-        \item Maintained both modern FastAPI and legacy Python services, recording all company transactions(\$10M/monthly).
-        \item Part of the on call rotation.
+        \item Built RabbitMQ producers and consumers in Python 3 microservices within AWS Kubernetes.
+        \item Maintained FastAPI and legacy Python services processing \$10M/monthly transactions.
+        \item Participated in the on-call rotation.
     \end{itemize}
 }
 
 \cventry{2021 -- 2023}{Software Engineer II, Outlook Platform}{Microsoft}{Remote}{Brasil}
 {
     \begin{itemize}
-        \item Implemented and maintained .NET back end services (REST and gRPC), root causing issues and fixing them.
-        \item Wrote an assistant that would run everyday for every mailbox in Outlook, with asynchronous .NET.
-        \item Created and maintained a diagnostics tool in .NET and Powershell, helping oncall engineers fix production issues.
-        \item Worked on migrating the most used service across Outlook, from legacy .NET Framework to modern .NET core.
-        \item Part of the on call rotation.
+        \item Developed and maintained .NET backend services (REST and gRPC), resolving issues and bugs.
+        \item Built an asynchronous .NET assistant running daily for all Outlook mailboxes.
+        \item Created and maintained diagnostics tools in .NET and PowerShell for production issues.
+        \item Migrated the most-used Outlook service from .NET Framework to .NET Core.
+        \item Participated in the on-call rotation.
     \end{itemize}
 }
 
 \cventry{2019 -- 2021}{Software Engineer, Commercial Software Engineering}{Microsoft}{Remote}{Brasil}
 {
     \begin{itemize}
-	    \item Contributed to aks-engine, an open source Go project that Azure uses to deploy its managed kubernetes service. 
-	    \item Develop the TypeScript library that supports a linter that is mandatory for the whole org.
-        \item Designed and implemented a notification system in Go for one of the biggest e-commerces in LATAM.
-        \item Led the deployment process of a covid-19 Data API for one of the biggest health organizations in the world.
+	    \item Contributed to \textit{aks-engine}, an open-source Go project for Azure's Kubernetes service.
+	    \item Developed a mandatory TypeScript library supporting organization-wide linting.
+        \item Designed and implemented a Go-based notification system for a large LATAM e-commerce.
+        \item Led deployment of a COVID-19 data API for a major health organization.
     \end{itemize}
 }
 
 \cventry{2018 -- 2019}{Software Engineering Intern, Commercial Software Engineering}{Microsoft}{São Paulo}{Brasil}
 {
     \begin{itemize}
-        \item Created a web client with TypeScript (Angular) for a Machine Learning Platform used by 300 data scientists.
-        \item Developed Back-End REST APIs with Python, ASP.NET Core and Java Spring.
-        \item Created web client code with TypeScript for financial trading company, used by thousands of traders. 
-	    \item Designed and implemented Distributed Cloud Applications with Azure, Terraform, Docker and Kubernetes.
+        \item Created a TypeScript (Angular) web client for a machine learning platform used by 300 data scientists.
+        \item Developed REST APIs in Python, ASP.NET Core, and Java Spring.
+        \item Built a TypeScript client for a trading platform used by thousands of traders.
+	    \item Designed distributed cloud apps using Azure, Terraform, Docker, and Kubernetes.
     \end{itemize}
 }
 
 \cventry{2017 -- 2018}{Data Science Intern}{CETAX}{São Paulo}{Brasil}
 {
     \begin{itemize}
-        \item Development of big data, data science applications and machine learning models using Python 3.
-        \item Started code review culture at the company.
+        \item Built big data and machine learning applications using Python 3.
+        \item Introduced and promoted a code review culture.
     \end{itemize}
 }
+
 \cventry{2016 -- 2017}{Undergraduate Researcher}{IBM - Unicamp}{Campinas}{Brasil}
 {
     \begin{itemize}
-        \item Helped to deploy and maintain Minicloud, a free open-source openstack cloud for hundreds of Unicamp students.
-        \item Developed \href{https://github.com/Guilhermeslucas/powergraph}{PowerGraph}, a Python 3 monitoring software for a cloud server used by hundreds of people.
-        \item Interviewed and mentored three new students at the project.
+        \item Deployed and maintained Minicloud, a free OpenStack cloud for Unicamp students.
+        \item Developed \href{https://github.com/Guilhermeslucas/powergraph}{PowerGraph}, a Python 3 server monitoring tool.
+        \item Interviewed and mentored new project members.
+        \item Developed OpenCL2CUDA, a Python 3 converter from the OpenCL HPC library to CUDA.
     \end{itemize}
 }
 
@@ -123,10 +119,10 @@
 \cventry{2014 -- 2018}{Computer Engineering}{University of Campinas (UNICAMP)}{Campinas}{Brasil}
 {
     \begin{itemize}
-        \item Won third place at Microsoft Hack the Campus Hackaton, with a chat bot that analyses university data.
-        \item Volunteer Teaching Assistantant for Digital Circuits Subject.
-        \item Volunteer assistant and teacher on Shell Script and GNU/Linux courses at the Unicamp Free Software Group.
-        \item Vice President of the students union for computer science and engineering courses (nearly one thousand students).
+        \item Won 3rd place at Microsoft's Hack the Campus Hackathon with a university data chatbot.
+        \item Volunteer TA for the Digital Circuits course.
+        \item Assisted and taught shell scripting and Linux courses at the Free Software Group.
+        \item Served as VP of the Computer Science and Engineering Student Union (1,000+ students).
     \end{itemize} 
 }
 
@@ -141,4 +137,5 @@
 
 \cvitem{Intermediate}{C/C++, Java, TypeScript, Docker, AWS}
 \cvitem{Advanced}{Python, C\#, Go, Shell Script, Git, GNU/Linux, Azure, Kubernetes, Terraform}
+
 \end{document}
