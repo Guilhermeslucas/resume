@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.12.7)  15 JUL 2026 17:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.12.7)  22 JUL 2026 17:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -203,11 +203,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) (./moderncvstylecasual.sty
-Package: moderncvstylecasual 2012/10/31 v1.2.0 modern curriculum vitae and lett
-er style scheme: casual
-
-(./moderncvstyleclassic.sty
+)) (./moderncvstyleclassic.sty
 Package: moderncvstyleclassic 2012/10/31 v1.2.0 modern curriculum vitae and let
 ter style scheme: classic
 \quotewidth=\skip61
@@ -227,11 +223,6 @@ LaTeX Font Info:    Trying to load font information for U+mvs on input line 78.
 \cvitemwithcommentmainbox=\box51
 \cvitemwithcommentmainlength=\skip71
 \cvitemwithcommentcommentlength=\skip72
-)
-\footerbox=\box52
-\footertempbox=\box53
-\footerwidth=\skip73
-\footerboxwidth=\skip74
 )
 (./moderncvcolorblue.sty
 Package: moderncvcolorblue 2012/10/31 v1.2.0 modern curriculum vitae and letter
@@ -371,7 +362,7 @@ File: hdvips.def 2021-06-07 v7.00m Hyperref driver for dvips
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pdfmark.def
 File: pdfmark.def 2021-06-07 v7.00m Hyperref definitions for pdfmark specials
 \pdf@docset=\toks25
-\pdf@box=\box54
+\pdf@box=\box52
 \pdf@toks=\toks26
 \pdf@defaulttoks=\toks27
 \HyField@AnnotCount=\count272
@@ -392,17 +383,17 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip75
+\Hy@SectionHShift=\skip73
 ))
-Package hyperref Info: Option `breaklinks' set `true' on input line 43.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 43.
+Package hyperref Info: Option `breaklinks' set `true' on input line 42.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 42.
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2022-01-12 L3 backend support: dvips
-\l__pdf_internal_box=\box55
+\l__pdf_internal_box=\box53
 \g__pdf_backend_object_int=\count275
-\l__pdf_backend_content_box=\box56
-\l__pdf_backend_model_box=\box57
+\l__pdf_backend_content_box=\box54
+\l__pdf_backend_model_box=\box55
 \g__pdf_backend_annotation_int=\count276
 \g__pdf_backend_link_int=\count277
 \g__pdf_backend_link_sf_int=\count278
@@ -410,29 +401,29 @@ File: l3backend-dvips.def 2022-01-12 L3 backend support: dvips
 (./Guilherme-eng.aux)
 \openout1 = `Guilherme-eng.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Info: Redefining \microtypecontext on input line 43.
-Package microtype Info: Applying patch `item' on input line 43.
-Package microtype Info: Applying patch `toc' on input line 43.
-Package microtype Info: Applying patch `eqnum' on input line 43.
-Package microtype Info: Applying patch `footnote' on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Info: Redefining \microtypecontext on input line 42.
+Package microtype Info: Applying patch `item' on input line 42.
+Package microtype Info: Applying patch `toc' on input line 42.
+Package microtype Info: Applying patch `eqnum' on input line 42.
+Package microtype Info: Applying patch `footnote' on input line 42.
 Package microtype Info: Generating DVI output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -479,7 +470,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 43.
+Package hyperref Info: Link coloring OFF on input line 42.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -491,72 +482,74 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count279
 )
-LaTeX Info: Redefining \ref on input line 43.
-LaTeX Info: Redefining \pageref on input line 43.
-LaTeX Info: Redefining \nameref on input line 43.
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
 
 (./Guilherme-eng.out) (./Guilherme-eng.out)
 \@outlinefile=\write3
 \openout3 = `Guilherme-eng.out'.
 
-\makecvtitlepicturebox=\box58
-\makecvtitlepicturewidth=\skip76
+\makecvtitledetailsbox=\box56
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
+4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
-
- []
-
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
-9.
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
-9.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
+4.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-59.
+44.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-59.
+44.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 59.
+(Font)              <9> on input line 44.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 59.
+(Font)              <6> on input line 44.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 59.
+(Font)              <5> on input line 44.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-46.
+\makecvtitlepicturebox=\box57
+\makecvtitledetailswidth=\skip74
+\makecvtitlepicturewidth=\skip75
 
-(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [1
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 59.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 59.
+[1
 
 ] (./Guilherme-eng.aux)
 Package rerunfilecheck Info: File `Guilherme-eng.out' has not changed.
 (rerunfilecheck)             Checksum: 82C748DA34B76B5CE7D03A1B078C0108;395.
  ) 
 Here is how much of TeX's memory you used:
- 12913 strings out of 478288
- 210834 string characters out of 5849315
- 595939 words of memory out of 5000000
- 30906 multiletter control sequences out of 15000+600000
- 510618 words of font info for 51 fonts, out of 8000000 for 9000
+ 12861 strings out of 478288
+ 209213 string characters out of 5849315
+ 595468 words of memory out of 5000000
+ 30855 multiletter control sequences out of 15000+600000
+ 514385 words of font info for 55 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 70i,12n,83p,1010b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,11n,83p,1010b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Guilherme-eng.dvi (1 page, 14500 bytes).
+Output written on Guilherme-eng.dvi (1 page, 13976 bytes).

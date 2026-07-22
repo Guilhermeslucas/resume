@@ -25,40 +25,40 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
-\moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
 
 \moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 
 \usepackage[scale=0.90]{geometry} % Reduce document margins
 \setlength{\makecvtitlenamewidth}{10cm} % Adjust the width of the space allocated to your name
+\renewcommand{\namefont}{\fontsize{28}{30}\selectfont}
 
 \firstname{Guilherme} 
 \familyname{Lucas}
 
 % All information in this block is optional, comment out any lines you don't need
-\title{Curriculum Vitae}
-\mobile{+55 19 98279-1826}
 \email{guilherme.slucas@gmail.com}
 
 \begin{document}
 
 \makecvtitle % Prints the CV title
+\vspace{-1.25cm}
 
 \section{Experience}
 
-\cventry{Mindbody}{Senior Software Engineer, Payments}{2024 -- Present}{}{}
+\cventry{Mindbody}{Senior Software Engineer, Payments}{Jul 2024 -- Present}{}{}
 {
     \begin{itemize}
-        \item Maintained .NET Core microservices for financial tasks and integrations with Stripe and Global Payments.
+        \item Developed and maintained .NET Core microservices for financial tasks and integrations with Stripe.
         \item Led Kubernetes capacity planning during high season for the payments team.
-        \item Maintained a React-based financial admin platform used by 1,000+ payment specialists.
+        \item Developed and maintained a React-based financial admin platform used by 1,000+ payment specialists.
         \item Led Payments PCI initiative, ensuring code integrity.
         \item Coached and mentored engineers, enhancing team capabilities.
         \item Participated in the on-call rotation.
     \end{itemize}
 }
 
-\cventry{Telnyx}{Software Engineer II, Finance Systems}{2023 -- 2024}{}{}
+\cventry{Telnyx}{Software Engineer II, Finance Systems}{Jun 2023 -- Jul 2024}{}{}
 {
     \begin{itemize}
         \item Built RabbitMQ producers and consumers in Python microservices within AWS Kubernetes.
@@ -67,7 +67,7 @@
     \end{itemize}
 }
 
-\cventry{Microsoft}{Software Engineer II, Outlook Platform}{2021 -- 2023}{}{}
+\cventry{Microsoft}{Software Engineer II, Outlook Platform}{Apr 2021 -- Jun 2023}{}{}
 {
     \begin{itemize}
         \item Developed and maintained .NET backend services supporting Outlook (REST and gRPC).
@@ -78,7 +78,7 @@
     \end{itemize}
 }
 
-\cventry{}{Software Engineer, Commercial Software Engineering}{2019 -- 2021}{}{}
+\cventry{}{Software Engineer, Commercial Software Engineering}{Jan 2019 -- Apr 2021}{}{}
 {
     \begin{itemize}
         \item Contributed to \textit{aks-engine}, an open-source Go project for Azure Kubernetes Service deployments.
@@ -88,7 +88,7 @@
     \end{itemize}
 }
 
-\cventry{}{Software Engineering Intern, Commercial Software Engineering}{2018 -- 2019}{}{}
+\cventry{}{Software Engineering Intern, Commercial Software Engineering}{Feb 2018 -- Jan 2019}{}{}
 {
     \begin{itemize}
         \item Created a TypeScript (Angular) web client for a machine learning platform used by 300 data scientists.
@@ -98,7 +98,7 @@
     \end{itemize}
 }
 
-\cventry{CETAX}{AI Intern}{2017 -- 2018}{}{}
+\cventry{CETAX}{AI Intern}{Feb 2017 -- Feb 2018}{}{}
 {
     \begin{itemize}
         \item Built Big Data, Machine Learning, and Artificial Intelligence applications using Python.
@@ -106,7 +106,7 @@
     \end{itemize}
 }
 
-\cventry{IBM}{Cloud Computing Researcher}{2015 -- 2017}{}{}
+\cventry{IBM}{Cloud Computing Researcher}{Sep 2015 -- Feb 2017}{}{}
 {
     \begin{itemize}
         \item Deployed and maintained Minicloud, a free OpenStack cloud for Unicamp students.
@@ -118,13 +118,13 @@
 
 \section{Education}
 
-\cventry{2014 -- 2018}{Universidade Estadual de Campinas}{Computer Engineering}{}{}
+\cventry{}{Universidade Estadual de Campinas}{Computer Engineering}{2014 -- 2018}{}
 {
     \begin{itemize}
         \item Won 3rd place at Microsoft's Hack the Campus Hackathon with a university data chatbot.
         \item Assisted and taught shell scripting and Linux courses at the Free Software Group.
         \item Served as VP of the Computer Science and Engineering Student Union (1,000+ students).
-        \item Teaching assistant on Digital Circuits Subject. I applied the pratical tests and helped students with questions.
+        \item Teaching assistant for the Digital Circuits course, assisting students and administering practical exams.
         \item Final thesis: Cloud platform for high processing computing workloads. Platform still in use at Unicamp.
     \end{itemize} 
 }
